@@ -86,7 +86,7 @@
   <a href="https://github.com/arnav-1124">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[#](https://www.linkedin.com/in/arnav-raj-aa1b71317/?skipRedirect=true)">
+  <a href="https://www.linkedin.com/in/arnav-raj-aa1b71317/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
